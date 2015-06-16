@@ -2,7 +2,7 @@ fs = require("fs")
 
 packobj =
     name: "ripple-wallet-generator"
-    version: "0.1"
+    version: "0.1.0"
     description: "Generates and encrypts Ripple Wallets."
     repository: "evhub/ripple-wallet-generator"
     files: ["WalletMaker.js"]
