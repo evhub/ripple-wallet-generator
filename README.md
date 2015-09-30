@@ -1,4 +1,4 @@
-NOTE: Use the very significantly updated version of this tool found in the private Ripple Labs repository under the name "ripple-entity-generator" instead of this one. This one is highly outdated.
+**NOTE:** Use the very significantly updated version of this tool found in the private Ripple Labs repository under the name `ripple-entity-generator` instead of this one. This one is highly outdated.
 
 # ripple-wallet-generator
 
